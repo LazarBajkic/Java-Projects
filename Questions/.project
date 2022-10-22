@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<< HEAD
+	<name>Questions</name>
+=======
+<<<<<<< HEAD
+	<name>Jukebox</name>
+=======
+<<<<<<< HEAD
+	<name>Prvi program</name>
+=======
+	<name>Clearence</name>
+>>>>>>> 418383321a08b08e1697d84aa35d3c8c5c394904
+>>>>>>> 719cd87fcc033c134c8cef82ee38682d96c48a0c
+>>>>>>> fc472e43e2e5ff9ffd6bd0d67e444e872d83d899
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
